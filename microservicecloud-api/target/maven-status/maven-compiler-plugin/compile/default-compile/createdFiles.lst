@@ -1,0 +1,5 @@
+com\springcloud\service\hystrix\DeptClientServiceFallbackFactory.class
+com\springcloud\pojo\TbStudent.class
+com\springcloud\service\DeptClientService.class
+com\springcloud\service\hystrix\DeptClientServiceFallbackFactory$1.class
+com\springcloud\pojo\Dept.class

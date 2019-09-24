@@ -1,0 +1,4 @@
+E:\eclipseWork3\microservicecloud\microservicecloud-api\src\main\java\com\springcloud\service\DeptClientService.java
+E:\eclipseWork3\microservicecloud\microservicecloud-api\src\main\java\com\springcloud\pojo\Dept.java
+E:\eclipseWork3\microservicecloud\microservicecloud-api\src\main\java\com\springcloud\pojo\TbStudent.java
+E:\eclipseWork3\microservicecloud\microservicecloud-api\src\main\java\com\springcloud\service\hystrix\DeptClientServiceFallbackFactory.java
